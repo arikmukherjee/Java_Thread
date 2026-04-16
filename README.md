@@ -89,7 +89,7 @@ debate-community/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/debate-community.git
+git clone https://github.com/your-username/Veritas-Debates.git
 ```
 
 ### 2. Open the Project
